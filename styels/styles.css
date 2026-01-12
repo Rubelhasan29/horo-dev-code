@@ -277,7 +277,7 @@ footer .footer-container{
 .hide{
     display: none !important;
 }
-@media screen and (max-width:576px) {
+@media screen and (max-width:650px) {
     #skills .skills-container {
     width: 95%;
 }
